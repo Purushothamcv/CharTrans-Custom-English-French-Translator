@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+build/
+dist/
+pip-wheel-metadata/
+*.egg-info/
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+
+# TensorFlow / Keras / PyTorch model files
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+*.pkl
+*.sav
+*.npz
+*.pb
+*.tflite
+*.onnx
+*.safetensors
+
+# Logs and temporary files
+*.log
+*.tmp
+*.out
+
+# Streamlit cache
+.streamlit/
+
+# Dataset files (optional)
+data/
+fra.txt
+
+# OS files
+.DS_Store
+Thumbs.db
